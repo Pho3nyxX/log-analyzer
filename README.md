@@ -16,11 +16,11 @@ A Bash-based log analysis tool that analyzes Linux authentication logs to identi
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/<your-username>/linux-log-analyzer.git
+git clone https://github.com/<your-username>/log-analyzer.git
 ```
 **2. Navigate into the project folder:**
 ```bash
-cd linux-log-analyzer
+cd log-analyzer
 ```
 **3. Make the script executable:**
 ```bash
